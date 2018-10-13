@@ -2,6 +2,7 @@ package com.suhao.butterknife;
 
 import android.app.Activity;
 
+@SuppressWarnings("all")
 public class ButterKnife {
 
     public static void bind(Activity activity){
